@@ -1,0 +1,27 @@
+#cabecera{
+    float: left;
+    display: flex;
+    align-items: center; 
+    border-bottom:  1px solid grey;
+    font-family: sans-serif;
+    width: 100%;
+}
+
+#logo{
+    float: left;
+    height: 100px;
+    width: 100px;
+    margin-left: 2%;
+    margin-bottom: 3%;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 75px;
+    padding-left: 300px;
+    padding-top:50px;
+    padding-bottom: 20px;
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+}
